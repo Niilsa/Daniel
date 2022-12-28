@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-# mine
+# Daniel's Page
 
 ## About me
 
